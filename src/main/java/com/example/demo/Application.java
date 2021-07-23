@@ -14,6 +14,8 @@ public class Application {
 		
 		int i=10;
 		System.out.println(i);
+
+int i=20;
 		
 	}
 
